@@ -1,0 +1,1 @@
+[Rectangle(10, 5, 5, 5, 'shape_0', '#'), Circle(3, 25, 10, 'shape_1', 'O')]
