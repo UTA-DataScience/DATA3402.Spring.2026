@@ -1,0 +1,6 @@
+# SUSY dataset (DO NOT PUSH)
+SUSY.csv
+SUSY.csv.gz
+SUSY_small.csv
+SUSY_tiny.csv
+*.csv
